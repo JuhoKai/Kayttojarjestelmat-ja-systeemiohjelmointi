@@ -1,1 +1,1 @@
-Tämä repository on käyttöjärjestelmät ja systeemiohjelmointia varten.
+Tämä repository on käyttöjärjestelmät ja systeemiohjelmointi -kurssia varten.

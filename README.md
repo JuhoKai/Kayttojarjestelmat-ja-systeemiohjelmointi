@@ -1,1 +1,1 @@
-This repository has the käyttöjärjestelmät..
+Tämä repository on käyttöjärjestelmät ja systeemiohjelmointia varten.
